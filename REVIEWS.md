@@ -2,7 +2,7 @@
 
 ### Disentangling Adversarial Robustness and Generalization
 Link: 
-By: Max Planck Institute, Saarland and University of Tubingen
+By: Max Planck Institute, Saarland and University of Tubingen, At CVPR 2019
 
 ### Enhancing robust generalization through appropriate adversarial example attack intensity
 Link: https://www.sciencedirect.com/science/article/pii/S0925231225022714

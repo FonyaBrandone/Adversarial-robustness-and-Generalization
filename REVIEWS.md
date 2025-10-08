@@ -1,8 +1,12 @@
 ### 🔥 List of selected papers around Adversarial Defence and model generalization robustness
 
 ### Disentangling Adversarial Robustness and Generalization
-Link: 
+Link: https://arxiv.org/abs/1812.00740
 By: Max Planck Institute, Saarland and University of Tubingen, At CVPR 2019
+
+### ✅ Adversarial attacks on medical machine learning
+Link: https://www.science.org/doi/10.1126/science.aaw4399
+By: Havard University and MIT. Published by Science, 2019
 
 ### Enhancing robust generalization through appropriate adversarial example attack intensity
 Link: https://www.sciencedirect.com/science/article/pii/S0925231225022714
